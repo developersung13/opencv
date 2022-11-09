@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <p>
     <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
@@ -369,3 +370,7 @@ For YOLOv5 bugs and feature requests please visit [GitHub Issues](https://github
 
 [assets]: https://github.com/ultralytics/yolov5/releases
 [tta]: https://github.com/ultralytics/yolov5/issues/303
+=======
+# opencv
+A collection of all the files related to Sinabro YOLOv5.
+>>>>>>> 2b9e3be8e68083a1e39efc5f061bdc381d0228d0

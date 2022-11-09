@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2b9e3be8e68083a1e39efc5f061bdc381d0228d0
 # Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
 *.jpg
 *.jpeg
@@ -64,6 +68,11 @@ darknet53.conv.74
 yolov3-tiny.conv.15
 
 # GitHub Python GitIgnore ----------------------------------------------------------------------------------------------
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> e1e1279d49bf25578e4aef98da2d5755e781da4a
+>>>>>>> 2b9e3be8e68083a1e39efc5f061bdc381d0228d0
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -74,7 +83,14 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+<<<<<<< HEAD
 env/
+=======
+<<<<<<< HEAD
+env/
+=======
+>>>>>>> e1e1279d49bf25578e4aef98da2d5755e781da4a
+>>>>>>> 2b9e3be8e68083a1e39efc5f061bdc381d0228d0
 build/
 develop-eggs/
 dist/
@@ -87,11 +103,26 @@ parts/
 sdist/
 var/
 wheels/
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2b9e3be8e68083a1e39efc5f061bdc381d0228d0
 *.egg-info/
 /wandb/
 .installed.cfg
 *.egg
 
+<<<<<<< HEAD
+=======
+=======
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+>>>>>>> e1e1279d49bf25578e4aef98da2d5755e781da4a
+>>>>>>> 2b9e3be8e68083a1e39efc5f061bdc381d0228d0
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -106,13 +137,30 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+.nox/
+>>>>>>> e1e1279d49bf25578e4aef98da2d5755e781da4a
+>>>>>>> 2b9e3be8e68083a1e39efc5f061bdc381d0228d0
 .coverage
 .coverage.*
 .cache
 nosetests.xml
 coverage.xml
 *.cover
+<<<<<<< HEAD
 .hypothesis/
+=======
+<<<<<<< HEAD
+.hypothesis/
+=======
+*.py,cover
+.hypothesis/
+.pytest_cache/
+>>>>>>> e1e1279d49bf25578e4aef98da2d5755e781da4a
+>>>>>>> 2b9e3be8e68083a1e39efc5f061bdc381d0228d0
 
 # Translations
 *.mo
@@ -121,6 +169,14 @@ coverage.xml
 # Django stuff:
 *.log
 local_settings.py
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+db.sqlite3
+db.sqlite3-journal
+>>>>>>> e1e1279d49bf25578e4aef98da2d5755e781da4a
+>>>>>>> 2b9e3be8e68083a1e39efc5f061bdc381d0228d0
 
 # Flask stuff:
 instance/
@@ -138,15 +194,48 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2b9e3be8e68083a1e39efc5f061bdc381d0228d0
 # pyenv
 .python-version
 
 # celery beat schedule file
 celerybeat-schedule
+<<<<<<< HEAD
+=======
+=======
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+>>>>>>> e1e1279d49bf25578e4aef98da2d5755e781da4a
+>>>>>>> 2b9e3be8e68083a1e39efc5f061bdc381d0228d0
 
 # SageMath parsed files
 *.sage.py
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2b9e3be8e68083a1e39efc5f061bdc381d0228d0
 # dotenv
 .env
 
@@ -154,6 +243,19 @@ celerybeat-schedule
 .venv*
 venv*/
 ENV*/
+<<<<<<< HEAD
+=======
+=======
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+>>>>>>> e1e1279d49bf25578e4aef98da2d5755e781da4a
+>>>>>>> 2b9e3be8e68083a1e39efc5f061bdc381d0228d0
 
 # Spyder project settings
 .spyderproject
@@ -167,6 +269,10 @@ ENV*/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2b9e3be8e68083a1e39efc5f061bdc381d0228d0
 
 
 # https://github.com/github/gitignore/blob/master/Global/macOS.gitignore -----------------------------------------------
@@ -254,3 +360,13 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+<<<<<<< HEAD
+=======
+=======
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+>>>>>>> e1e1279d49bf25578e4aef98da2d5755e781da4a
+>>>>>>> 2b9e3be8e68083a1e39efc5f061bdc381d0228d0
